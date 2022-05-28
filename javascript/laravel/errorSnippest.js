@@ -1,5 +1,5 @@
 /*
-* Laralvel Ajax Request response errors appending
+* Laravel Ajax Request response errors appending
 * just place your element with id formErrors and place the code within the errorsList in error: function(errors) => { erorrList(errors)  }
 */
  function errorsList(errors) {
